@@ -19,7 +19,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
   imports: [
     BrowserModule,
     FormsModule,
-    AppRoutingModule,
+    AppRoutingModule, 
   ],
   providers: [],
   bootstrap: [AppComponent]
