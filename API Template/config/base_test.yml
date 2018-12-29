@@ -1,0 +1,20 @@
+server:
+  host: 127.0.0.1
+  port: 8080
+mongo:
+  url: localhost:27017
+  dialTimeout: 5
+  dbName: pdm
+  username: unit_test_mongo_username
+  password:
+  mongoKey1: keyone
+  mongoKey2:
+  euuid: mongoeuid
+splitpea:
+  decrypt: https://dev-int-api-gw.centene.com/splitpea/decrypt/config
+  username: 267b790b-e498-489d-951a-c107219f8fb0
+  password:
+publicDir: ./public/
+swaggerEndpoint: /docs/swagger.json
+logLevel: info
+graylogUrl:

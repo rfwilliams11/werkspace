@@ -1,0 +1,4 @@
+server:
+  host: 0.0.0.0
+mongo:
+  host: stlmg05d.centene.com:27017

@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+public/docs/test-swagger.json
+vendor/
+dist/
+Gopkg.lock
+*.iml
+*.env
+*.out

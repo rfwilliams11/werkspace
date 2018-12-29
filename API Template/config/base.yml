@@ -1,0 +1,21 @@
+server:
+  host: 127.0.0.1
+  port: 8080
+mongo:
+  url:
+  dialTimeout: 5
+  dbName: PDM
+  username:
+  password:
+  mongoKey1:
+  mongoKey2:
+  euuid:
+splitpea:
+  decrypt: split-pea.ssg/decrypt
+  username:
+  password:
+logFacility: rtr-api
+publicDir: ./public/
+swaggerEndpoint: /docs/swagger.json
+logLevel: info
+graylogUrl: dev-gl-capi.centene.com:12201
